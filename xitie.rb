@@ -10,3 +10,7 @@ end
 get '/photo' do
   slim :photo
 end
+
+get '/video' do
+  slim :video
+end
