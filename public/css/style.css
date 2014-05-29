@@ -1,0 +1,179 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.custom-row {
+  margin: 0;
+  /*margin: 15px;*/
+  /*background: #fff;*/
+}
+
+.row-margin {
+  margin-bottom: 10px;  
+}
+
+.header-bar {
+  height: 50px;
+  background: url("../img/main.png") repeat-x;
+}
+
+.custom-container {
+  padding: 0;
+  margin: 0;
+  max-width: 600px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background: url("../img/bg.png") repeat;
+}
+
+.content-container {
+  padding: 15px;
+  background: #fff;*/
+  width: auto;
+  margin: 15px;
+  width: 570px;
+}
+
+.role {
+  text-align: center;
+  height: 25px;
+  line-height: 25px;
+  font-size: 18px;
+  color: #FFFFFF;
+  text-shadow: 2px 2px 2px rgba(124,124,0,.6);
+  top: 15px;
+}
+
+.loveicon {
+  width: 16px;
+  height: 16px;
+  background: url("../img/main.png") -70px -280px no-repeat;
+  display: inline-block;
+  margin: auto 6px;
+}
+
+.music {
+  display: inline-block;
+  position: absolute;
+  right: 15px;
+  top: 15px;
+  width: 25px;
+  height: 25px;
+  background: url("../img/main.png") -95px -221px no-repeat;
+}
+
+.head-img {
+  width: 100%;
+}
+
+.dec-box {
+  height: 130px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  background: url("../img/main.png") 0 -71px repeat-x;
+}
+
+.dec-title {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  padding: 10px 0;
+}
+
+.dec-content {
+  color: #fff;
+  text-align: center;
+}
+
+.button-box {
+  color: #ff82ab;
+}
+
+.button-item {
+  width: 90px;
+  height: 40px;
+  top: 0;
+  background: url("../img/main.png") -234px -221px no-repeat;
+  line-height: 40px;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 16px;
+}
+
+.wei-images {
+  float: left;
+  left: 140px;
+}
+
+.wei-videos {
+  float: right;
+  right: 120px;
+}
+
+.button-link {
+  color: #fff;
+}
+
+.button-link:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.flower {
+  float: left;
+  left: 160px;
+}
+
+.link-box {
+  height: 50px;
+  margin-bottom: 3px;
+  background: #F7E6D2;
+}
+
+.text-box {
+  font-size: 18px;
+  height: 45px;
+  line-height: 45px;
+  color: #000000;
+  padding-left: 5px;
+}
+
+.icon-box {
+  background: #FF0808;
+  height: 50px;
+  width: 60px;
+  margin: 0;
+  position: absolute;
+  right: 15px;
+}
+
+.custom-list {
+  color: #fff;
+  position: absolute;
+  right: 16px;
+  top: 5px;
+}
+
+.custom-list-map {
+  color: #fff;
+  position: absolute;
+  right: 22px;
+  top: 5px;
+}
+
+.list-text {
+  position: absolute;
+  top: 30px;
+  right: 6px;
+  color: #fff;
+  font-size: 0.1em;
+}
+
+.footer {
+  margin: 10px 0;
+  color: red;
+  text-align: center;
+}
+
